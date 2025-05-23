@@ -94,7 +94,7 @@ To offer a single-window interface for accessing vital loan data, enabling users
 🙋‍♂️ Author
 
 **Ayush Suryawanshi**  
-🔗 [LinkedIn](www.linkedin.com/in/ayush-suryawanshi-1b2805362)
+🔗 [LinkedIn](https://www.linkedin.com/in/ayush-suryawanshi-1b2805362/))
 
 
 > Built to turn financial data into business-ready insights with Excel.
