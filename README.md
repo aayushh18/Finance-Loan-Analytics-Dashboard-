@@ -1,4 +1,4 @@
-🏦 Finance Loan Analytics Dashboard 
+🏦 # Finance Loan Analytics Dashboard 
 
 This interactive Excel dashboard analyzes loan data to provide clear insights into loan performance. It tracks key metrics like application volume, funded and received amounts, interest rates, and borrower health using pivot tables, slicers, and charts.
 
